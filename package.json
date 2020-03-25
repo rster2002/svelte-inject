@@ -1,5 +1,5 @@
 {
-    "name": "svelte-body-injection",
+    "name": "svelte-inject",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -11,7 +11,7 @@
         "url": "git+https://github.com/rster2002/svelte-body-injection.git"
     },
     "author": "Bjørn (rster2002)",
-    "license": "ISC",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/rster2002/svelte-body-injection/issues"
     },
