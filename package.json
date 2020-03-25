@@ -1,0 +1,19 @@
+{
+    "name": "svelte-body-injection",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rster2002/svelte-body-injection.git"
+    },
+    "author": "Bjørn (rster2002)",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rster2002/svelte-body-injection/issues"
+    },
+    "homepage": "https://github.com/rster2002/svelte-body-injection#readme"
+}
